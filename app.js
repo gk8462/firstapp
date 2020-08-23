@@ -1,0 +1,1 @@
+console.log("Jai mata di, Jai maa saraswati");
